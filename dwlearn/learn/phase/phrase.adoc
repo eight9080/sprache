@@ -1,5 +1,13 @@
 = DW
 
+== Tag 3.12.2020
+
+* Entschuldigung, was kostet das?
+* Wir überspringen Übung Nummer 2.
+* Hast du Lust, dich morgen früh zum Frühstück zu treffen? - Would you like to meet up for breakfast tomorrow morning?
+* Wo findet das heutige Meeting statt ? - Where is today's meeting taking place?
+* Ich möchte mich für einen Kurs anmelden. - I want to register for a course.
+
 == Tag 2.12.2020
 
 * Heute ist ein schöner tag! - Today is a nice day!
